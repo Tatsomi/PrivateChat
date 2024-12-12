@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Tatsomi/PrivateChat
+build-by-default: true
+branches:
+- main
+projects:
+  PrivateChat:
+    path: ""
+...
