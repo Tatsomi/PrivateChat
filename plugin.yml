@@ -1,0 +1,15 @@
+---
+name: PrivateChat
+version: 0.0.1
+main: Tatsomi\PrivateChat\Main
+api: 5.0.0
+src-namespace-prefix: Tatsomi\PrivateChat
+author: Tatsomi
+
+commands:
+  privatechat:
+    permission: privatechat.use
+    description: "Open the PrivateChat UI"
+permissions:
+  privatechat.use:
+    default: true
